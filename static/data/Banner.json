@@ -1,0 +1,29 @@
+{
+    "status": 0,
+    "data": {
+        "billboards": [
+            {
+                "id": 614,
+                "name": "女王的终极决战",
+                "url": "http://m.maizuo.com/act/active/1074",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/7dbd3346d702254e3204232cd7916467.jpg",
+                "weight": 1
+            },
+            {
+                "id": 616,
+                "name": "动漫角色开年萌",
+                "url": "http://m.maizuo.com/act/active/1073",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/1f5966dc6a368aaeccf5d01bfb4fb24b.jpg",
+                "weight": 0
+            },
+            {
+                "id": 620,
+                "name": "单身 罪无可恕？",
+                "url": "http://cps.maizuo.com/changeUrl.htm?channelId=372&urlId=1399",
+                "imageUrl": "https://pic.maizuo.com/h5PicUpload/c30c8601b1ced7b3e8a748741f818001.jpg",
+                "weight": 9
+            }
+        ]
+    },
+    "msg": "ok"
+}

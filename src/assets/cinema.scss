@@ -1,0 +1,57 @@
+$fontss: normal;
+$colorss: #ffffff;
+$ccc: #cccccc;
+$f60:#ff6600;
+@mixin inline-block { 
+    display: inline-block;
+}
+.cinema {
+    .main {
+    background: $colorss;
+    font-family: $fontss;
+    }
+    .items {
+        padding: 0.2rem;
+        border-bottom: 1px solid #e1e1e1;
+        .itemsText {
+            float: left;
+            .items_title {
+                font-size: 0.16rem;
+                margin-left: -0.05rem
+            }
+            .items_food {
+                display: inline-block;
+                line-height: 0.14rem;
+                font-size: 0.1rem;
+                background: cornflowerblue;
+                color: #ffffff;
+                padding: 0 0.05rem;
+                border-radius: 0.04rem;
+            }
+            .items_add {
+                font-size: 0.1rem;
+                color: #ccc;
+            }
+            .items_distance {
+                @extend  .items_add;
+                @include inline-block
+                line-height:0.1rem;
+            }
+            .items_votes {
+                @extend  .items_add;
+                @include inline-block
+                padding-left: 0.1rem;
+                line-height:0.1rem;
+                border-left: 1px solid $ccc;
+            }
+        }
+        .itemsMoney {
+            float: right;
+            color: $f60;
+            font-size: 0.2rem;
+        } 
+    }
+    
+}
+
+

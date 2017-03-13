@@ -1,0 +1,117 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "id": 3570,
+                "name": "生化危机6：终章",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/movie/8ccea50c15ff0490d1cd6b489723df8f.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/movie/586888b54527ca453c360cf3feac3260.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/movie/586888b54527ca453c360cf3feac3260.jpg!150x0"
+                },
+                "intro": "终篇重新改 女神再归来",
+                "premiereAt": 1487865600000,
+                "grade": "8.4",
+                "watchCount": 50989,
+                "cinemaCount": 128,
+                "scheduleCount": 4117,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3542,
+                "name": "极限特工：终极回归",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003542/f5cd0534ab9bdd3eaeb9a03cac35513a.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100003542/51195ec28b265c80958556e232f5d05f.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100003542/51195ec28b265c80958556e232f5d05f.jpg!150x0"
+                },
+                "intro": "特工再回归 英雄组团来",
+                "premiereAt": 1486656000000,
+                "grade": "8.4",
+                "watchCount": 1176467,
+                "cinemaCount": 129,
+                "scheduleCount": 3290,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3572,
+                "name": "刺客信条",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/movie/a6f3d1dc2e6fba9a8ffc422a9ca7bd19.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/movie/5eb6d6eea10484c0f9f6178d0fe1c950.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/movie/5eb6d6eea10484c0f9f6178d0fe1c950.jpg!150x0"
+                },
+                "intro": "穿越黑科技 法鲨炫腹肌",
+                "premiereAt": 1487865600000,
+                "grade": "8.5",
+                "watchCount": 6931,
+                "cinemaCount": 126,
+                "scheduleCount": 2288,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3555,
+                "name": "欢乐好声音",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003555/22be358656368e96c9b49f05c933c587.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100003555/bd73d99a2ec423939598ebd336cc58a3.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100003555/bd73d99a2ec423939598ebd336cc58a3.jpg!150x0"
+                },
+                "intro": "挽救歌剧院 欢唱动物园",
+                "premiereAt": 1487260800000,
+                "grade": "8.5",
+                "watchCount": 167317,
+                "cinemaCount": 128,
+                "scheduleCount": 2249,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            },
+            {
+                "id": 3474,
+                "name": "爱乐之城",
+                "cover": {
+                    "origin": "https://pic.maizuo.com/usr/100003474/8bd2a19623ca9e9eba3f8a540ef44f68.jpg"
+                },
+                "poster": {
+                    "origin": "https://pic.maizuo.com/usr/100003474/4d831556d3a8dd97306f39d384c60463.jpg",
+                    "thumbnail": "https://pic.maizuo.com/usr/100003474/4d831556d3a8dd97306f39d384c60463.jpg!150x0"
+                },
+                "intro": "爵士钢琴家 恋爱舞天涯",
+                "premiereAt": 1487001600000,
+                "grade": "8.4",
+                "watchCount": 553828,
+                "cinemaCount": 128,
+                "scheduleCount": 2101,
+                "isPromotion": true,
+                "isNowPlaying": true,
+                "isComingSoon": "",
+                "isPresold": ""
+            }
+        ],
+        "page": {
+            "total": 4,
+            "current": 1
+        }
+    },
+    "msg": "ok"
+}
